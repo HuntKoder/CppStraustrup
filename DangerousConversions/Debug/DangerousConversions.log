@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\27.05.2019 Начало курса\Project_vc\DangerousConversions\main.cpp(13,15): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+  DangerousConversions.vcxproj -> E:\27.05.2019 Начало курса\Project_vc\DangerousConversions\Debug\DangerousConversions.exe
